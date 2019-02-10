@@ -1,0 +1,386 @@
+[12:37:51] [main/INFO] [JMLogger] JourneyMap log initialized.
+[12:37:51] [main/INFO] [JourneymapClient] initialize ENTER
+[12:37:51] [main/ERROR] [JMLogger] Default theme not found in C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
+[12:37:51] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.3, built with Forge 14.23.5.2768
+Forge: 14.23.5.2768
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.3, zoomLevel=0, showPlayers=true, frameAlpha=50, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=FPS, sizePercent=30, showDayNight=true, info3Label=Biome, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Square, showSelf=true, info4Label=Location, locationFormat=xyvz, playerDisplay=Large Icons, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Bottom Right, info1Label=Game Time, fontScale=2}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.3, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.3, mobDisplay=Small Dots, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.3, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.3, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.3, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.3, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=2, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=2, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.3, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=Stronghold, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
+[12:37:51] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[12:37:51] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[12:37:51] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
+[12:37:51] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[12:37:58] [main/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension%20of%20the%20Realms\mods\journeymap-1.12.2-5.5.3.jar\assets\journeymap\icon\entity
+[12:37:58] [main/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[12:37:58] [main/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension%20of%20the%20Realms\mods\journeymap-1.12.2-5.5.3.jar\assets\journeymap\theme\flat
+[12:37:59] [main/INFO] [ThemeLoader] Preloaded theme textures: 71
+[12:37:59] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387) ~[?:1.8.0_51]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:275) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:117) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:131) [VersionCheck$1.class:1.12.2-5.5.3]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 26 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145) ~[?:1.8.0_51]
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131) ~[?:1.8.0_51]
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 26 more
+[12:38:57] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:38:58] [main/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\waypoints
+[12:38:58] [main/INFO] [JourneymapClient] Mapping started in C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0. Memory: 3211MB total, 908MB free 
+[12:38:58] [main/INFO] [ChatLog] JourneyMap: Press [J]
+[12:38:59] [main/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
+[12:38:59] [JM-task-4/WARN] [ImageHolder] Recovered image file: C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0\day\-1,-1.png.new
+[12:38:59] [JM-task-4/ERROR] [RegionImageHandler] Region file produced error: C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0\day\-1,-1.png: java.lang.IndexOutOfBoundsException
+	at java.io.RandomAccessFile.readBytes(Native Method)
+	at java.io.RandomAccessFile.read(RandomAccessFile.java:377)
+	at javax.imageio.stream.FileImageInputStream.read(FileImageInputStream.java:117)
+	at com.sun.imageio.plugins.common.SubImageInputStream.read(SubImageInputStream.java:61)
+	at com.sun.imageio.plugins.common.InputStreamAdapter.read(InputStreamAdapter.java:47)
+	at java.io.SequenceInputStream.read(SequenceInputStream.java:207)
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:238)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at java.io.FilterInputStream.read(FilterInputStream.java:83)
+	at com.sun.imageio.plugins.png.PNGImageReader.decodePass(PNGImageReader.java:1104)
+	at com.sun.imageio.plugins.png.PNGImageReader.decodeImage(PNGImageReader.java:1215)
+	at com.sun.imageio.plugins.png.PNGImageReader.readImage(PNGImageReader.java:1330)
+	at com.sun.imageio.plugins.png.PNGImageReader.read(PNGImageReader.java:1606)
+	at javax.imageio.ImageIO.read(ImageIO.java:1448)
+	at javax.imageio.ImageIO.read(ImageIO.java:1308)
+	at journeymap.client.io.RegionImageHandler.readRegionImage(RegionImageHandler.java:89)
+[12:42:37] [JM-task-4/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for projectx:xycronium_ore[meta=2]
+[13:17:33] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:34] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:35] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:35] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:35] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:55] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:56] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:17:57] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:21] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:22] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:22] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:22] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:22] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:22] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:22] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:23] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:30] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:44] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:45] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:46] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:18:47] [main/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1282 in TextureImpl{glid=233, description=textures/entity/alex.png, lastImageUpdate=1549735975566, lastBound=0}
+[13:19:31] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0
+[13:21:13] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
+[13:21:13] [main/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\waypoints
+[13:21:13] [main/INFO] [JourneymapClient] Mapping started in C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0. Memory: 1789MB total, 796MB free 
+[13:27:55] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0
+[13:33:55] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
+[13:33:56] [main/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\waypoints
+[13:33:56] [main/INFO] [JourneymapClient] Mapping started in C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0. Memory: 1963MB total, 851MB free 
+[14:23:52] [main/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[14:23:52] [main/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[17:02:03] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0
+[20:27:32] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
+[20:27:32] [main/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\waypoints
+[20:27:32] [main/INFO] [JourneymapClient] Mapping started in C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0. Memory: 1990MB total, 928MB free 
+[20:28:29] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\knox\Documents\Curse\Minecraft\Instances\Ascension of the Realms\journeymap\data\mp\Beta~Test~Server\DIM0

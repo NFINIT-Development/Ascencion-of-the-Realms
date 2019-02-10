@@ -1,0 +1,13 @@
+{
+  "inventory": {
+    "1:3": "aoa3:amethind_helmet",
+    "1:1": "aoa3:amethind_legs",
+    "2:0": "spartanshields:shield_basic_tin",
+    "0:1": "questbook:itemquestbook",
+    "0:2": "minestrapp:meurodite_sword",
+    "0:9": "repurpose:item_bag_of_holding,1,0,{bagOfHoldingItems:{refreshValue:0b,opened:0b,inventory:{Size:54,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"adventurepack:flashlight\",Count:1b,tag:{on:1},Damage:0s},{Slot:1,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minestrapp:bedrock_pickaxe\",Count:1b,Damage:0s},{Slot:2,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"adventurepack:lantern\",Count:1b,Damage:0s},{Slot:3,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minestrapp:fish_and_chips\",Count:32b,Damage:0s},{Slot:4,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minestrapp:hamburger\",Count:8b,Damage:0s},{Slot:5,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minestrapp:candy_blue\",Count:6b,Damage:0s},{Slot:6,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"superiorshields:vanilla_shield_iron\",Count:1b,Damage:0s}]},slotIndex:0}}",
+    "1:2": "aoa3:amethind_chestplate",
+    "0:0": "prefab:item_start_house",
+    "1:0": "aoa3:amethind_boots"
+  }
+}
